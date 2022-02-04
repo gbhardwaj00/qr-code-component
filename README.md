@@ -20,12 +20,11 @@ Frontend Mentor Challenge QR Code Component Challenge
 
 ### Screenshot
 
-![](./design/solution.png)
+![QR Code Screenshot](/design/solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gbhardwaj00/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/gbhardwaj00/qr-code-component](https://github.com/gbhardwaj00/qr-code-component)
 
 ## My process
 
