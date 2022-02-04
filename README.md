@@ -20,7 +20,7 @@ Frontend Mentor Challenge QR Code Component Challenge
 
 ### Screenshot
 
-![QR Code Screenshot](/design/solution.png)
+![QR Code Screenshot](./design/solution.jpg)
 
 ### Links
 
