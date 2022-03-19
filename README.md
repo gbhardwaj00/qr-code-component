@@ -50,10 +50,10 @@ I will keep working with CSS Box Model to better understand and place different 
 ### Useful resources
 
 - [Resource 1](https://developer.mozilla.org/en-US/) - Helped in clearing doubts about CSS and HTML
-- [Resource 2](VSCode Live Server Extension) - Helped with checking my code live
+- Resource 2 - (VSCode Live Server Extension) - Helped with checking my code live
 
 ## Author
 
 - Frontend Mentor - [@gbhardwaj00](https://www.frontendmentor.io/profile/gbhardwaj00)
--GitHub - [@gbhardwaj00](https://github.com/gbhardwaj00)
+- GitHub - [@gbhardwaj00](https://github.com/gbhardwaj00)
 
